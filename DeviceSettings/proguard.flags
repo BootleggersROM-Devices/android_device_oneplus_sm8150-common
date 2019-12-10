@@ -1,0 +1,3 @@
+-keep class com.bootleggers.device.DeviceSettings.* {
+  *;
+}
