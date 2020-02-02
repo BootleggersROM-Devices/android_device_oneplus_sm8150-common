@@ -396,6 +396,10 @@ PRODUCT_PACKAGES += \
     librmnetctl \
     libxml2
 
+# TouchGestures
+PRODUCT_PACKAGES += \
+    TouchGestures
+
 # Vendor libstdc++
 PRODUCT_PACKAGES += \
     libstdc++.vendor
